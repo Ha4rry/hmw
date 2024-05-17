@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.smol {
+    font-size: small;
+}
+
+#egg {
+    color:darkgrey;
+    font-size: smaller;
+    position:absolute;
+    bottom:0;
+    left: 0;
+    text-decoration-line: none;
+    /* cursor:pointer; */
+}
+
+.result {
+    margin-top: 0.5em;
+}
+.rooted {
+    text-decoration: overline;
+}
+
+#mtpTT {
+    font-size: 2em;
+    margin-top: 0.5em;
+}
